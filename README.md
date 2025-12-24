@@ -1,18 +1,18 @@
 # Hi, I'm Manikandan 👋  
 ### 🚀 JavaScript Developer | Web & Mobile
 
-I’m a passionate **JavaScript developer** building real-world applications using  
+I’m a passionate **JavaScript developer** focused on building real-world applications using  
 **React (Web)**, **React Native (Mobile)**, and the **MERN stack**.  
-Currently working with **React Native + Expo + TypeScript**, while continuously strengthening backend and deployment skills.
+Currently working with **React Native + Expo + TypeScript**, while continuously improving backend, deployment, and system understanding.
 
 ---
 
 ## 🧭 What I’m Working On
-- 📱 Mobile apps using **React Native & Expo**
-- ⚛️ Scalable UI with **React Hooks**
+- 📱 Mobile application development using **React Native & Expo**
+- ⚛️ Frontend development with **React & Hooks**
 - 🌐 Backend APIs using **Node.js & Express**
-- ☁️ Deployment using **Vercel & Render**
-- 🧠 Improving debugging & problem-solving skills
+- ☁️ Cloud deployment using **Vercel, Render & MongoDB Atlas**
+- 🧠 Improving debugging, performance, and problem-solving skills
 
 ---
 
@@ -25,15 +25,22 @@ Currently working with **React Native + Expo + TypeScript**, while continuously 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
+---
+
 ### 🧩 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
+
 ### ☁️ Deployment & Cloud
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
 
 ### 🧰 Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -45,7 +52,7 @@ Currently working with **React Native + Expo + TypeScript**, while continuously 
 
 ## 📊 GitHub Stats
 
-![Manikandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manikandan-dev7&theme=radical&hide_border=true)
 
@@ -56,8 +63,8 @@ Currently working with **React Native + Expo + TypeScript**, while continuously 
 ## 🎯 Career Focus
 - 📌 React / React Native Developer  
 - 📌 Mobile App Development (Expo)  
-- 📌 MERN Stack (ongoing)  
-- 📌 Long-term: Product-based & MNC roles  
+- 📌 MERN Stack (in progress)  
+- 📌 Long-term goal: Product-based & MNC engineering roles  
 
 ---
 
@@ -69,4 +76,4 @@ Currently working with **React Native + Expo + TypeScript**, while continuously 
 
 ---
 
-⭐ *Focused on learning, building, and growing as a full-stack JavaScript developer.*
+⭐ *Focused on consistent learning, clean code, and building scalable products.*
