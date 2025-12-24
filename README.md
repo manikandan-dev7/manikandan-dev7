@@ -3,15 +3,16 @@
 
 I’m a passionate **JavaScript developer** building real-world applications using  
 **React (Web)**, **React Native (Mobile)**, and the **MERN stack**.  
-Currently gaining hands-on experience in **React Native with Expo & TypeScript**, while continuously strengthening my backend skills.
+Currently working with **React Native + Expo + TypeScript**, while continuously strengthening backend and deployment skills.
 
 ---
 
 ## 🧭 What I’m Working On
-- 📱 Building mobile apps using **React Native + Expo**
-- ⚛️ Creating scalable UI with **React & Hooks**
-- 🧠 Improving problem-solving & debugging skills
-- 🌐 Learning backend development with **Node.js, Express & MongoDB**
+- 📱 Mobile apps using **React Native & Expo**
+- ⚛️ Scalable UI with **React Hooks**
+- 🌐 Backend APIs using **Node.js & Express**
+- ☁️ Deployment using **Vercel & Render**
+- 🧠 Improving debugging & problem-solving skills
 
 ---
 
@@ -28,11 +29,17 @@ Currently gaining hands-on experience in **React Native with Expo & TypeScript**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### ☁️ Deployment & Cloud
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ### 🧰 Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -40,17 +47,17 @@ Currently gaining hands-on experience in **React Native with Expo & TypeScript**
 
 ![Manikandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=manikandan-dev7&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=manikandan-dev7&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-dev7&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🎯 Career Focus
-- 📌 Frontend Developer (React / React Native)
-- 📌 Mobile App Developer (Expo)
-- 📌 MERN Stack Developer (in progress)
-- 📌 Long-term goal: Product-based / MNC engineering roles
+- 📌 React / React Native Developer  
+- 📌 Mobile App Development (Expo)  
+- 📌 MERN Stack (ongoing)  
+- 📌 Long-term: Product-based & MNC roles  
 
 ---
 
@@ -62,4 +69,4 @@ Currently gaining hands-on experience in **React Native with Expo & TypeScript**
 
 ---
 
-⭐ *I believe in consistent learning, clean code, and building products that matter.*
+⭐ *Focused on learning, building, and growing as a full-stack JavaScript developer.*
