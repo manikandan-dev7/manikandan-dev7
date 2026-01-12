@@ -1,5 +1,5 @@
 # Hi, I'm Manikandan 👋  
-### 🚀 JavaScript Developer | Web & Mobile
+### 🚀 JavaScript Developer | Web  Mobile
 
 I’m a passionate **JavaScript developer** focused on building real-world applications using  
 **React (Web)**, **React Native (Mobile)**, and the **MERN stack**.  
